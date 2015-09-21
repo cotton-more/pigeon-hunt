@@ -4,3 +4,5 @@
 .env.php
 .env
 .idea
+storage/database.sqlite
+storage/pigeon
